@@ -1,4 +1,5 @@
 # 1. Load the pre-cleaned CSV extracted from auditblackbox
+
 df <- read.csv("nypd_cpw_stops.csv")
 
 # Ensure categorical predictors are treated as factors
