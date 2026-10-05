@@ -2,7 +2,7 @@
 
 This repository contains materials for a workshop auditing algorithmic bias using public NYPD Stop, Question, and Frisk (SQF) data. 
 
-Students will audit predictive models for racial disparities, specifically evaluating **False Positive Rates (FPR)** across demographic groups—and test threshold adjustments as a policy intervention - see COMPAS repository.
+Students will audit predictive models for racial disparities, specifically evaluating **False Positive Rates (FPR)** across demographic groups—and test threshold adjustments as a policy intervention. See COMPAS repository.
 
 ---
 
